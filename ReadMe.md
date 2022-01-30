@@ -6,3 +6,5 @@
 </a>
 
 <br>
+
+[`EppsEffect.ipynb`](https://github.com/OussamaBOUDCHICHI/On-the-Epps-effect/blob/main/EppsEffect.ipynb)
